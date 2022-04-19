@@ -41,5 +41,5 @@ Auxliar as mulheres a montarem um Github campeão disponibilizando templates de 
      
        
      
-       nao-perca-seus-commits.md
+
       
