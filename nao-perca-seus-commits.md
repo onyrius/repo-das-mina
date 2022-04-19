@@ -6,19 +6,19 @@
 
 Clique no botão "New" logo no topo da página de seus repositórios como na figura a abaixo
 
-<img src="criando-novo-repositorio.png" alt="como criar um novo repositório">
+<img src="images/criando-novo-repositorio.png" alt="como criar um novo repositório">
 
 <p>Clicando no botão "New", você será redirecionada para a pagina de criação. Preencha os campos requiridos e clique no botão verde "Create repository" que fica no final da página </p>
 
-<img src="preenchendo-os-campos-novo-repo.png" alt="preenchendo-os-campos-novo-repo"/>
+<img src="images/preenchendo-os-campos-novo-repo.png" alt="preenchendo-os-campos-novo-repo"/>
 
-<img src="clique-no-botao-verde.png" alt="clique-no-botao-verde"/>
+<img src="images/clique-no-botao-verde.png" alt="clique-no-botao-verde"/>
 
 <p>Você será direcionada para a seguinte tela</p>
 
 #### guarde o SSH 
 
-<img src="copiar-ssh.png" alt="copiar-ssh"/>
+<img src="images/copiar-ssh.png" alt="copiar-ssh"/>
 
 ## 2 - Adicionar o seu repositório da Trybe ao seu repositório criado
 
@@ -38,11 +38,11 @@ Se a Trybe forneceu uma aplicação (ou parte dela) no Projeto e você apenas pr
 
  nesse caso, eu apelidei o meu remote de tryunfo-repo - como na imagem abaixo
 
-<img src="adicionando-remote-ao-local.png" alt="adicionando-remote-ao-local"/>
+<img src="images/adicionando-remote-ao-local.png" alt="adicionando-remote-ao-local"/>
 
 depois faça o push do seu repositorio local para o  remote 
 
 `git push <apelido_do_remote> <sua_branch>:main`
 
-<img src="fazendo-push-para-o-remoto.png" alt="fazendo-push-para-o-remoto"/>
-<img src="resultado-do-push" alt="resultado-do-push"/>
+<img src="images/fazendo-push-para-o-remoto.png" alt="fazendo-push-para-o-remoto"/>
+<img src="images/resultado-do-push" alt="resultado-do-push"/>
