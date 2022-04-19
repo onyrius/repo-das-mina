@@ -12,4 +12,8 @@
  Criando um ambiente seguro, no meio desse ambiente prevalentemente masculino (por pouco tempo :wink: ), a acessível para que todas nós brilhe :sparkles:!
   Esse ambiente foi criado para que a gente se auxilie a montar nosso :octocat: GitHub campeão :trophy: para nos ajudar a encontrar a empresa dos nossos sonhos!!! </p>
 
-  ## Sintam-se à vontade para contribuir :grey_exclamation:
+## Objetivo
+
+Auxliar as mulheres a montarem um Github campeão disponibilizando templates de README e profile
+
+## Sintam-se à vontade para contribuir :grey_exclamation:
