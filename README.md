@@ -20,7 +20,7 @@ Auxliar as mulheres a montarem um Github campeão disponibilizando templates de 
 
 
 ###  <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" /> Sintam-se à vontade para contribuir <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" /> 
- https://myoctocat.com/build-your-octocat/
+
 
 
  ### Sumário
