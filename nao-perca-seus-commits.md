@@ -44,6 +44,10 @@
 
 `git checkout <sua_branch>`
 
+<br />
+
+<br />
+
 ---
 
 ---
@@ -60,7 +64,9 @@ _Importante : Ajuste seu código para não ferir os Termos de Uso da Trybe ou o 
 
 ---
 
-<br/>
+<br />
+
+<br />
 
 :exclamation: **- Faça os commits. E adicione do remote ao seu repositório local.**
 
