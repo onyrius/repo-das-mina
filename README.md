@@ -55,7 +55,7 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
         
  <a href="https://pixlr.com/br/editor/">Precisa editar fotos? Click aqui<a/>  <br/> <br/>
        
- ####  :dress:Avatares
+ ####  :performing_arts: Avatares
   
   <a href="https://myoctocat.com/build-your-octocat/"> Crie sua octocat linda!  <a/> 
        
@@ -63,4 +63,18 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
      
        
 
-      
+  ### :sos: <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" />  Precisa de ajuda? Procure-nos :sos: <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" /> 
+
+<a href="https://github.com/Alineol">Aline</a>
+
+<a href="https://github.com/AngelicaCSSilva">Angélica</a>
+
+<a href="https://github.com/brenndha-cabral">Brenndha</a>
+
+<a href="https://github.com/joiceaguiar">Joice</a>
+
+<a href="https://github.com/LeticiaMayr">Letícia</a>  
+ 
+ <a href="https://github.com/TabataSouto">Tabata</a> 
+       
+<a href="https://github.com/onyrius/">Suelen</a>
