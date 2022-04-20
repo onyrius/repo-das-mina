@@ -10,12 +10,12 @@
       Trybe
    </a>, ficou ainda mais evidenciado que, nós mulheres, temos necessidades, obrigações e tarefas completamente diferentes das dos homens. Muitas são mães com jornadas triplas de trabalho, muitas acumulam várias tarefas na lida com o cotidiano, mesmo não sendo mãe</p>
 <p> :apple: E como cumprir todos os comprimissos com nossa carreira? A reposta que chegamos é : NOS AJUDANDO! 
- Criando um ambiente seguro, no meio desse ambiente prevalentemente masculino (por pouco tempo :wink: ), a acessível para que todas nós brilhe :sparkles:!
-  Esse ambiente foi criado para que a gente se auxilie a montar nosso :octocat: GitHub campeão :trophy: para nos ajudar a encontrar a empresa dos nossos sonhos!!! </p>
+ Criando um ambiente seguro no meio desse ambiente prevalentemente masculino (por pouco tempo :wink: ) e acessível para que todas nós brilhemos :sparkles:!
+  Esse ambiente foi criado para nos auxiliarmos!! Montaremos nosso :octocat: GitHub campeão :trophy: que nos ajudará a encontrar a empresa dos nossos sonhos :heart_eyes: !!! </p>
 
 ### Objetivo
 
-Auxliar as mulheres a montarem um Github campeão disponibilizando templates de README e profile
+Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de README e profile
 
 
 
