@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="images/criando-novo-repositorio.png" alt="como criar um novo repositório">
+<img src="images/criando-novo-repositorio.png" alt="como criar um novo repositório" align="center" width="700">
 
 ---
 
@@ -20,16 +20,16 @@
 <br/>
 
 
-<img src="images/preenchendo-os-campos-novo-repo.png" alt="preenchendo-os-campos-novo-repo"/>
+<img src="images/preenchendo-os-campos-novo-repo.png" alt="preenchendo-os-campos-novo-repo" align="center" width="700"/>
 
-<img src="images/clique-no-botao-verde.png" alt="clique-no-botao-verde"/>
+<img src="images/clique-no-botao-verde.png" alt="clique-no-botao-verde" align="center" width="700"/>
 
 ---
 <br/>
 
 :exclamation: **Você será direcionada para a seguinte tela (guarde o SSH )**
 
-<img src="images/copiar-ssh.png" alt="copiar-ssh"/>
+<img src="images/copiar-ssh.png" alt="copiar-ssh" align="center" width="700"/>
 
 ---
 
@@ -58,7 +58,7 @@ Se a Trybe forneceu uma aplicação (ou parte dela) no Projeto e você apenas pr
 <br/>
 
 
-<img src="images/adicionando-remote-ao-local.png" alt="adicionando-remote-ao-local"/>
+<img src="images/adicionando-remote-ao-local.png" alt="adicionando-remote-ao-local" align="center" width="700"/>
 ---
 
 <br/>
@@ -69,6 +69,6 @@ Se a Trybe forneceu uma aplicação (ou parte dela) no Projeto e você apenas pr
 <br/>
 
 
-<img src="images/fazendo-push-para-o-remoto.png" alt="fazendo-push-para-o-remoto"/>
+<img src="images/fazendo-push-para-o-remoto.png" alt="fazendo-push-para-o-remoto" align="center" width="700"/>
 <br/>
-<img src="images/resultado-do-push.png" alt="resultado-do-push"/>
+<img src="images/resultado-do-push.png" alt="resultado-do-push" align="center" width="700"/>
