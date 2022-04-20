@@ -15,7 +15,7 @@
 
 ### Objetivo
 
-Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de README e profile
+Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de README e Profile
 
 
 
@@ -29,7 +29,7 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
 
 <a href="https://github.com/onyrius/repo-das-mina/blob/f226203649794a35a1b7307b719031b63149c189/como-copiar-repo.md">Como copiar os templates?<a/>  
       
-<a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Passo a passo de como criar o GitHub<a/>  
+<a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Passo a passo de como criar o GitHub Profile<a/>  
 
 <a href="https://github.com/onyrius/repo-das-mina/blob/95fad25a448b0d75003ad6c41e68e33661304f27/nao-perca-seus-commits.md">Passo a passo para aproveitar os projetos da Trybe e nao perder os commits <a/> <br/> <br/>
       
