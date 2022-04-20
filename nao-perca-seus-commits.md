@@ -45,4 +45,4 @@ depois faça o push do seu repositorio local para o  remote
 `git push <apelido_do_remote> <sua_branch>:main`
 
 <img src="images/fazendo-push-para-o-remoto.png" alt="fazendo-push-para-o-remoto"/>
-<img src="images/resultado-do-push" alt="resultado-do-push"/>
+<img src="images/resultado-do-push.png" alt="resultado-do-push"/>
