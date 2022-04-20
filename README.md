@@ -22,11 +22,13 @@ Auxliar as mulheres a montarem um Github campeão disponibilizando templates de 
 ###  <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" /> Sintam-se à vontade para contribuir <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" /> 
 
 
-
  ### Sumário
  
  #### :feet: Passo-a-passos :feet:
  
+
+<a href="como-copiar-repo">Como copiar os templates?<a/>  
+      
 <a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Passo a passo de como criar o GitHub<a/>  
 
 <a href="https://github.com/onyrius/repo-das-mina/blob/95fad25a448b0d75003ad6c41e68e33661304f27/nao-perca-seus-commits.md">Passo a passo para aproveitar os projetos da Trybe e nao perder os commits <a/> <br/> <br/>
