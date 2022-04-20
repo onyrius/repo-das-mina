@@ -38,7 +38,7 @@
 
 <br/>
 
-### 2 - Adicionar o seu repositório ( branch que está o projeto da Trybe ) ao seu repositório criado
+### 2 - Adicionar o seu repositório local ( branch que está o projeto da Trybe ) ao seu repositório criado
 
 **Entre na sua branch do projeto da Trybe**
 
