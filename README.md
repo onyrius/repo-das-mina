@@ -29,7 +29,7 @@ Auxliar as mulheres a montarem um Github campeão disponibilizando templates de 
  
 <a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Passo a passo de como criar o GitHub<a/>  
 
-<a href="https://github.com/onyrius/repo-das-mina/blob/95fad25a448b0d75003ad6c41e68e33661304f27/nao-perca-seus-commits.md">Passo a passo para aproveitar os trabalhos da Trybe e nao perder os commits <a/> <br/> <br/>
+<a href="https://github.com/onyrius/repo-das-mina/blob/95fad25a448b0d75003ad6c41e68e33661304f27/nao-perca-seus-commits.md">Passo a passo para aproveitar os projetos da Trybe e nao perder os commits <a/> <br/> <br/>
       
 #### :grin: Emojis e figuras em Markdown ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
       
