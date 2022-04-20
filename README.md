@@ -32,6 +32,7 @@ Auxliar as mulheres a montarem um Github campeão disponibilizando templates de 
  <a href="https://github.com/onyrius/repo-das-mina/blob/9a56c596b28926b16eb919ebdb7781bd6510a8f7/template-readme.md"> Template READMe para projetos  <a/>
   
  <a href="https://myoctocat.com/build-your-octocat/"> Crie sua octocat linda!  <a/> 
+   <a href="https://www.bitmoji.com/"> Crie um avatar!  <a/>   
  
 <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Gerador de Profile do GitHub <a/> 
       
