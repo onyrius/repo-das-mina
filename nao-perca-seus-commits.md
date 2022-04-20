@@ -25,13 +25,16 @@
 <img src="images/clique-no-botao-verde.png" alt="clique-no-botao-verde" align="center" width="700"/>
 
 ---
+
 <br/>
 
 :exclamation: **Você será direcionada para a seguinte tela (guarde o SSH )**
 
 <img src="images/copiar-ssh.png" alt="copiar-ssh" align="center" width="700"/>
 
+
 ---
+
 
 <br/>
 
@@ -65,6 +68,7 @@ _Importante : Ajuste seu código para não ferir os Termos de Uso da Trybe ou o 
 
 
 <img src="images/adicionando-remote-ao-local.png" alt="adicionando-remote-ao-local" align="center" width="700"/>
+
 ---
 
 <br/>
