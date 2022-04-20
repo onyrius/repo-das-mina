@@ -1,5 +1,5 @@
  
- #  :octocat: Passo a passo para não perder os seus commits :octocat:
+ #  :octocat:  Passo a passo para não perder os seus commits  :octocat:
 
 <br/>
 
@@ -46,6 +46,8 @@
 
 ---
 
+---
+
 ## :exclamation: :exclamation: Aviso da Trybe :exclamation: :exclamation:
 
 _Importante : Ajuste seu código para não ferir os Termos de Uso da Trybe ou o Manual da Pessoa Estudante : <br/>
@@ -54,6 +56,8 @@ _Importante : Ajuste seu código para não ferir os Termos de Uso da Trybe ou o 
      :heavy_check_mark: Se o Projeto não foi feito individualmente : garanta que as outras pessoas que contribuíram estão de acordo, dê os devidos créditos a elas no README , e também sinalize no README quais partes do código foram implementadas por você. <br/>
      :heavy_check_mark: Se a Trybe forneceu uma aplicação (ou parte dela) no Projeto e você apenas precisou complementá-la para realizar requisitos ( exemplo: requisitos de implementações de testes ): sinalize no README quais partes do código foram implementadas por você, e quais foram fornecidas pela Trybe_
      
+---
+
 ---
 
 <br/>
@@ -82,3 +86,8 @@ _Importante : Ajuste seu código para não ferir os Termos de Uso da Trybe ou o 
 <img src="images/fazendo-push-para-o-remoto.png" alt="fazendo-push-para-o-remoto" align="center" width="700"/>
 <br/>
 <img src="images/resultado-do-push.png" alt="resultado-do-push" align="center" width="700"/>
+<br/>
+
+---
+
+##  checkered_flag:  Prontinho!!! Seu projeto já está dizendo "Olá, Mundo!"  checkered_flag:
