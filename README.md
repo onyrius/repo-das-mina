@@ -27,7 +27,7 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
  #### :feet: Passo-a-passos :feet:
  
 
-<a href="como-copiar-repo">Como copiar os templates?<a/>  
+<a href="https://github.com/onyrius/repo-das-mina/blob/f226203649794a35a1b7307b719031b63149c189/como-copiar-repo.md">Como copiar os templates?<a/>  
       
 <a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Passo a passo de como criar o GitHub<a/>  
 
