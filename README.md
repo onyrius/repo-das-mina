@@ -40,6 +40,9 @@ Auxliar as mulheres a montarem um Github campeão disponibilizando templates de 
  <a href="https://github.com/matiassingers/awesome-readme">Readme Bacanas!<a/>  
  
  <a href="https://github.com/kautukkundan/Awesome-Profile-README-templates">Readme Bacanas 2!<a/>  
+       
+ <a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Passo a passo de como criar o GitHub<a/>  
+  
    </p>
      
        
