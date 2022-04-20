@@ -20,24 +20,45 @@ Auxliar as mulheres a montarem um Github campeão disponibilizando templates de 
 
 
 ###  <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" /> Sintam-se à vontade para contribuir <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" /> 
- https://myoctocat.com/build-your-octocat/
+
 
 
  ### Sumário
+ 
+ #### :feet: Passo-a-passos :feet:
+ 
+<a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Passo a passo de como criar o GitHub<a/>  
 
-<p><a href="https://github.com/onyrius/repo-das-mina/blob/9a56c596b28926b16eb919ebdb7781bd6510a8f7/emojis.md"> Emojis em MarkDown  <a/>
+<a href="https://github.com/onyrius/repo-das-mina/blob/95fad25a448b0d75003ad6c41e68e33661304f27/nao-perca-seus-commits.md">Passo a passo para aproveitar os projetos da Trybe e nao perder os commits <a/> <br/> <br/>
+      
+#### :grin: Emojis e figuras em Markdown ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+      
+<a href="https://github.com/onyrius/repo-das-mina/blob/9a56c596b28926b16eb919ebdb7781bd6510a8f7/emojis.md"> Emojis em MarkDown  <a/>
 
-<a href="https://github.com/onyrius/markdown-badges"> Marcas em MarkDown <a/>
+<a href="https://github.com/onyrius/markdown-badges"> Marcas em MarkDown <a/> <br/> <br/>
+      
+#### :scroll: Templates :scroll:
       
  <a href="https://github.com/onyrius/repo-das-mina/blob/9a56c596b28926b16eb919ebdb7781bd6510a8f7/template-readme.md"> Template READMe para projetos  <a/>
   
- <a href="https://myoctocat.com/build-your-octocat/"> Crie sua octocat linda!  <a/> 
- 
 <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Gerador de Profile do GitHub <a/> 
-         
-   </p>
+      
+<a href="https://github.com/matiassingers/awesome-readme">Readme Bacanas!<a/>  
+ 
+<a href="https://github.com/kautukkundan/Awesome-Profile-README-templates">Readme Bacanas 2!<a/>
+ <br/>
+<br/>
+      
+ #### :wrench: Editores de imagem     
+        
+ <a href="https://pixlr.com/br/editor/">Precisa editar fotos? Click aqui<a/>  <br/> <br/>
+       
+ ####  :dress:Avatares
+  
+  <a href="https://myoctocat.com/build-your-octocat/"> Crie sua octocat linda!  <a/> 
+       
+ <a href="https://www.bitmoji.com/"> Crie um avatar!  <a/>   
      
        
-     
-       
+
       
