@@ -29,13 +29,13 @@ Auxliar as mulheres a montarem um Github campeão disponibilizando templates de 
  
 <a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Passo a passo de como criar o GitHub<a/>  
 
-<a href="https://github.com/onyrius/repo-das-mina/blob/95fad25a448b0d75003ad6c41e68e33661304f27/nao-perca-seus-commits.md">Passo a passo para aproveitar os trabalhos da Trybe e nao perder os commits <a/> <br/>
+<a href="https://github.com/onyrius/repo-das-mina/blob/95fad25a448b0d75003ad6c41e68e33661304f27/nao-perca-seus-commits.md">Passo a passo para aproveitar os trabalhos da Trybe e nao perder os commits <a/> <br/> <br/>
       
 #### :grin: Emojis e figuras em Markdown ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
       
 <a href="https://github.com/onyrius/repo-das-mina/blob/9a56c596b28926b16eb919ebdb7781bd6510a8f7/emojis.md"> Emojis em MarkDown  <a/>
 
-<a href="https://github.com/onyrius/markdown-badges"> Marcas em MarkDown <a/> <br/>
+<a href="https://github.com/onyrius/markdown-badges"> Marcas em MarkDown <a/> <br/> <br/>
       
 #### :scroll: Templates :scroll:
       
@@ -45,11 +45,13 @@ Auxliar as mulheres a montarem um Github campeão disponibilizando templates de 
       
 <a href="https://github.com/matiassingers/awesome-readme">Readme Bacanas!<a/>  
  
-<a href="https://github.com/kautukkundan/Awesome-Profile-README-templates">Readme Bacanas 2!<a/> <br/>
-   
+<a href="https://github.com/kautukkundan/Awesome-Profile-README-templates">Readme Bacanas 2!<a/>
+ <br/>
+<br/>
+      
  #### :wrench: Editores de imagem     
         
- <a href="https://pixlr.com/br/editor/">Precisa editar fotos? Click aqui<a/>  <br/>
+ <a href="https://pixlr.com/br/editor/">Precisa editar fotos? Click aqui<a/>  <br/> <br/>
        
  ####  :dress:Avatares
   
