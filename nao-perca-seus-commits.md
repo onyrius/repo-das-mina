@@ -35,7 +35,7 @@
 
 <br/>
 
-### 2 - Adicionar o seu repositório da Trybe ao seu repositório criado
+### 2 - Adicionar o seu repositório ( branch que está o projeto da Trybe ) ao seu repositório criado
 
 **Entre na sua branch do projeto da Trybe**
 
@@ -43,13 +43,15 @@
 
 ## :exclamation: :exclamation: Aviso da Trybe :exclamation: :exclamation:
 
-_Importante : Ajuste seu código para não ferir os Termos de Uso da Trybe ou o Manual da Pessoa Estudante :
-Remova todos os testes da Trybe que avaliam os requisitos do Projeto, assim como arquivos e pastas auxiliares ao avaliador da Trybe ( trybe.yml , .github/* e .trybe/* ). Edite o README apagando o conteúdo original ( depois preencha de acordo com nosso guia de README para projetos ! ) Se o Projeto não foi feito individualmente : garanta que as outras pessoas que contribuíram estão de acordo, dê os devidos créditos a elas no README , e também sinalize no README quais partes do código foram implementadas por você.
-Se a Trybe forneceu uma aplicação (ou parte dela) no Projeto e você apenas precisou complementá-la para realizar requisitos ( exemplo: requisitos de implementações de testes ): sinalize no README quais partes do código foram implementadas por você, e quais foram fornecidas pela Trybe_
+_Importante : Ajuste seu código para não ferir os Termos de Uso da Trybe ou o Manual da Pessoa Estudante : <br/>
+     :heavy_check_mark: Remova todos os testes da Trybe que avaliam os requisitos do Projeto, assim como arquivos e pastas auxiliares ao avaliador da Trybe ( trybe.yml , .github/* e .trybe/* ). <br/>
+     :heavy_check_mark: Edite o README apagando o conteúdo original ( depois preencha de acordo com nosso guia de README para projetos ! ) <br/>
+     :heavy_check_mark: Se o Projeto não foi feito individualmente : garanta que as outras pessoas que contribuíram estão de acordo, dê os devidos créditos a elas no README , e também sinalize no README quais partes do código foram implementadas por você. <br/>
+     :heavy_check_mark: Se a Trybe forneceu uma aplicação (ou parte dela) no Projeto e você apenas precisou complementá-la para realizar requisitos ( exemplo: requisitos de implementações de testes ): sinalize no README quais partes do código foram implementadas por você, e quais foram fornecidas pela Trybe_
 
 <br/>
 
-:exclamation: **- Faça os comites. E adicione do remote ao seu repositório local.**
+:exclamation: **- Faça os commits. E adicione do remote ao seu repositório local.**
 
 `git remote add <apelido_do_remote> <url_ssh_do_repositório>`
 
