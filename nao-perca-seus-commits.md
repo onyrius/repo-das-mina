@@ -5,22 +5,20 @@
 
 ### 1 - Criar um novo repositório no seu perfil do GitHub 
 
-:exclamation: **Clique no botão *"New"* logo no topo da página de seus repositórios como na figura a abaixo** 
+:exclamation: Clique no botão *"New"* logo no topo da página de seus repositórios como na figura a abaixo
 
 <br/>
 
----
 <img src="images/criando-novo-repositorio.png" alt="como criar um novo repositório">
 
 ---
 
 <br/>
 
-:exclamation: **Clicando no botão *"New"*, você será redirecionada para a pagina de criação. Preencha os campos requiridos e clique no botão verde "Create repository" que fica no final da página**
+:exclamation: Clicando no botão *"New"*, você será redirecionada para a pagina de criação. Preencha os campos requiridos e clique no botão verde "Create repository" que fica no final da página
 
 <br/>
 
----
 
 <img src="images/preenchendo-os-campos-novo-repo.png" alt="preenchendo-os-campos-novo-repo"/>
 
@@ -59,7 +57,6 @@ Se a Trybe forneceu uma aplicação (ou parte dela) no Projeto e você apenas pr
 
 <br/>
 
----
 
 <img src="images/adicionando-remote-ao-local.png" alt="adicionando-remote-ao-local"/>
 ---
@@ -71,7 +68,6 @@ Se a Trybe forneceu uma aplicação (ou parte dela) no Projeto e você apenas pr
 `git push <apelido_do_remote> <sua_branch>:main`
 <br/>
 
----
 
 <img src="images/fazendo-push-para-o-remoto.png" alt="fazendo-push-para-o-remoto"/>
 <br/>
