@@ -41,6 +41,8 @@
 
 `git checkout <sua_branch>`
 
+---
+
 ## :exclamation: :exclamation: Aviso da Trybe :exclamation: :exclamation:
 
 _Importante : Ajuste seu código para não ferir os Termos de Uso da Trybe ou o Manual da Pessoa Estudante : <br/>
@@ -48,6 +50,8 @@ _Importante : Ajuste seu código para não ferir os Termos de Uso da Trybe ou o 
      :heavy_check_mark: Edite o README apagando o conteúdo original ( depois preencha de acordo com nosso guia de README para projetos ! ) <br/>
      :heavy_check_mark: Se o Projeto não foi feito individualmente : garanta que as outras pessoas que contribuíram estão de acordo, dê os devidos créditos a elas no README , e também sinalize no README quais partes do código foram implementadas por você. <br/>
      :heavy_check_mark: Se a Trybe forneceu uma aplicação (ou parte dela) no Projeto e você apenas precisou complementá-la para realizar requisitos ( exemplo: requisitos de implementações de testes ): sinalize no README quais partes do código foram implementadas por você, e quais foram fornecidas pela Trybe_
+     
+---
 
 <br/>
 
