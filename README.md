@@ -36,8 +36,10 @@ Auxliar as mulheres a montarem um Github campeão disponibilizando templates de 
 <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Gerador de Profile do GitHub <a/> 
       
 <a href="https://github.com/onyrius/repo-das-mina/blob/95fad25a448b0d75003ad6c41e68e33661304f27/nao-perca-seus-commits.md">Passo a passo para aproveitar os trabalhos da Trybe e nao perder os commits <a/> 
-   <a href="https://github.com/matiassingers/awesome-readme">Readme Bacanas!<a/>  
-   <a href="https://github.com/kautukkundan/Awesome-Profile-README-templates">Readme Bacanas 2!<a/>  
+      
+ <a href="https://github.com/matiassingers/awesome-readme">Readme Bacanas!<a/>  
+ 
+ <a href="https://github.com/kautukkundan/Awesome-Profile-README-templates">Readme Bacanas 2!<a/>  
    </p>
      
        
