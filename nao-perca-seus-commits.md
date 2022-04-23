@@ -69,7 +69,7 @@ _Importante : <br/> (ANTES DE DAR O PUSH PARA O SEU REPOSITÓRIO PESSOAL)  <br/>
 
 <br />
 
-:exclamation: **- Faça os commits. E adicione do remote ao seu repositório local.**
+:exclamation: **- Faça os commits. E adicione o remote ao seu repositório local.**
 
 `git remote add <apelido_do_remote> <url_ssh_do_repositório>`
 
