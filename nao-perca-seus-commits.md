@@ -54,7 +54,7 @@
 
 ## :exclamation: :exclamation: Aviso da Trybe :exclamation: :exclamation:
 
-_Importante : (ANTES DE DAR O PUSH PARA O SEU REPOSITÓRIO PESSOAL)
+_Importante : <br/> (ANTES DE DAR O PUSH PARA O SEU REPOSITÓRIO PESSOAL)  <br/> 
   Ajuste seu código para não ferir os Termos de Uso da Trybe ou o Manual da Pessoa Estudante : <br/>
      :heavy_check_mark: Remova todos os testes da Trybe que avaliam os requisitos do Projeto, assim como arquivos e pastas auxiliares ao avaliador da Trybe ( trybe.yml , .github/* e .trybe/* ). <br/>
      :heavy_check_mark: Edite o README apagando o conteúdo original ( depois preencha de acordo com nosso guia de README para projetos ! ) <br/>
