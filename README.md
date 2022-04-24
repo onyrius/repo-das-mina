@@ -59,9 +59,11 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
   
   <a href="https://myoctocat.com/build-your-octocat/"> Crie sua octocat linda!  <a/> 
        
- <a href="https://www.bitmoji.com/"> Crie um avatar!  <a/>   
-     
+ <a href="https://www.bitmoji.com/"> Crie um avatar!  <a/> <br/>  
        
+  #### :bust_in_silhouette: Portfólios
+     
+ <a href="https://dev.to/gismo1337/interactive-portfolio-showcase-for-developers-4m97?signin=true#a"> Inspirações para portfólio <a/><br/>
 
   ### :sos: <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" />  Precisa de ajuda? Procure-nos :sos: <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" /> 
 
@@ -70,6 +72,8 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
 <a href="https://github.com/AngelicaCSSilva">Angélica</a>
 
 <a href="https://github.com/brenndha-cabral">Brenndha</a>
+       
+<a href="https://github.com/Carolyla">Carol</a>
 
 <a href="https://github.com/joiceaguiar">Joice</a>
 
