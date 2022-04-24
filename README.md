@@ -51,21 +51,27 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
  <br/>
 <br/>
       
- #### :wrench: Editores de imagem     
+ #### :wrench: Editores de imagem :wrench:
         
- <a href="https://pixlr.com/br/editor/">Precisa editar fotos? Click aqui<a/>  <br/> <br/>
+ <a href="https://pixlr.com/br/editor/">Precisa editar fotos? Click aqui<a/>  <br/>
+  
+ <br/>
        
- ####  :performing_arts: Avatares
+ ####  :performing_arts: Avatares  :performing_arts:
   
   <a href="https://myoctocat.com/build-your-octocat/"> Crie sua octocat linda!  <a/> 
        
- <a href="https://www.bitmoji.com/"> Crie um avatar!  <a/> <br/>  
+ <a href="https://www.bitmoji.com/"> Crie um avatar!  <a/>
        
-  #### :bust_in_silhouette: Portfólios
+ <br/>  
+       
+  #### :bust_in_silhouette: Portfólios :bust_in_silhouette:
      
- <a href="https://dev.to/gismo1337/interactive-portfolio-showcase-for-developers-4m97?signin=true#a"> Inspirações para portfólio <a/><br/>
+ <a href="https://dev.to/gismo1337/interactive-portfolio-showcase-for-developers-4m97?signin=true#a"> Inspirações para portfólio <a/>
+  
+ <br/>
 
-  ### :sos: <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" />  Precisa de ajuda? Procure-nos :sos: <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" /> 
+  ### :sos: <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" />  Precisa de ajuda? Procure-nos <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" />  :sos:
 
 <a href="https://github.com/Alineol">Aline</a>
 
