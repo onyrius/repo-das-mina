@@ -1,4 +1,4 @@
-#  :kiss:  Repo das Minas  :lipstick:  :high_heel:  :nail_care:
+<h1 align="center"> :kiss:  Repo das Minas  :lipstick:  :high_heel:  :nail_care: <h1/> 
 
 ---
 ###  :construction:  Em contrução!  :construction:
