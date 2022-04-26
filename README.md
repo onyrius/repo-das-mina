@@ -67,7 +67,9 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
        
   ###  :bulb: Especiais :bulb:
        
-  <a href="https://dev.to/henriquelopes42/como-adicionar-o-snake-game-jogo-da-cobrinha-no-seu-perfil-do-github-40m2"> Colocar cobrinha no perfil<a/><br/>
+  <a href="https://dev.to/henriquelopes42/como-adicionar-o-snake-game-jogo-da-cobrinha-no-seu-perfil-do-github-40m2"> Colocar cobrinha no perfil<a/>
+        
+   <br/>
        
   #### :bust_in_silhouette: Portfólios :bust_in_silhouette:
      
