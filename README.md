@@ -76,6 +76,9 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
  <a href="https://dev.to/gismo1337/interactive-portfolio-showcase-for-developers-4m97?signin=true#a"> Inspirações para portfólio <a/>
   
  <br/>
+       
+   #### Desafios
+    <a href="desafio-Linkedin/dia-1.md">Dia 1<a/>
 
   ### :sos: <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" />  Precisa de ajuda? Procure-nos <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" />  :sos:
 
