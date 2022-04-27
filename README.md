@@ -75,16 +75,19 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
      
  <a href="https://dev.to/gismo1337/interactive-portfolio-showcase-for-developers-4m97?signin=true#a"> Inspirações para portfólio <a/>
   
- <br/>
-       
-   # :sunflower: Desafios :sunflower:
+ <br/><br/>
        
        
-<p>
+        
+       <h2 align="center">  :sunflower:  Desafios  :sunflower:   <h2/> 
+       
+             
+             
+
       
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
      
- </p>
+
  
   <a href="https://github.com/onyrius/repo-das-mina/blob/5053e890eafe5307275150e861b84f68a705b039/desafio-Linkedin/dia-1.md"> :seedling: - Dia 1 <a/><br/>
 
