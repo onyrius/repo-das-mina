@@ -86,7 +86,8 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
 
   <a href="https://github.com/onyrius/repo-das-mina/blob/5053e890eafe5307275150e861b84f68a705b039/desafio-Linkedin/dia-1.md"> :seedling: - Dia 1 <a/><br/>
 
- <a href="https://github.com/onyrius/repo-das-mina/blob/5053e890eafe5307275150e861b84f68a705b039/desafio-Linkedin/dia-1.md"> :seedling: - Dia 2 <a/><br/>
+ <a href="https://github.com/onyrius/repo-das-mina/blob/173f66b0e48e381e5a2f5bc544a857072671540c/desafio-Linkedin/dia-2/dia-2.md"> :seedling: - Dia 2 <a/><br/>
+       
 ---
         
 ---
