@@ -79,8 +79,7 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
        
        
         
-       <h2 align="center">  :sunflower:  Desafios  :sunflower:   <h2/> 
-       
+   # :sunflower:  Desafios  :sunflower:        
              
              
 
