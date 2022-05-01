@@ -69,6 +69,10 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
        
   <a href="https://dev.to/henriquelopes42/como-adicionar-o-snake-game-jogo-da-cobrinha-no-seu-perfil-do-github-40m2"> Colocar cobrinha no perfil<a/>
         
+   <a href="https://github.com/anuraghazra/github-readme-stats">Colocar as estatísticas no perfil - 1<a/>
+         
+   <a href="http://github-readme-streak-stats.herokuapp.com/demo/">Colocar as estatísticas no perfil - 2<a/>
+           
    <br/>
        
   #### :bust_in_silhouette: Portfólios :bust_in_silhouette:
