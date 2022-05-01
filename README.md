@@ -1,4 +1,4 @@
-<h1 align="center"> :kiss:  Repo das Minas  :lipstick:  :high_heel:  :nail_care: <h1/> 
+<h1 align="center"> :kiss:  Repo das Minas  :lipstick:  :high_heel:  :nail_care: </h1> 
 
 ---
 ###  :construction:  Em contrução!  :construction:
@@ -27,57 +27,57 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
  #### :feet: Passo-a-passos :feet:
  
 
-<a href="https://github.com/onyrius/repo-das-mina/blob/f226203649794a35a1b7307b719031b63149c189/como-copiar-repo.md">Como copiar os templates?<a/>  
+<a href="https://github.com/onyrius/repo-das-mina/blob/f226203649794a35a1b7307b719031b63149c189/como-copiar-repo.md">Como copiar os templates?</a>  
       
-<a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Passo a passo de como criar o GitHub Profile<a/>  
+<a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Passo a passo de como criar o GitHub Profile - Video 20 min - Rafaella Ballerini</a>  
 
-<a href="https://github.com/onyrius/repo-das-mina/blob/95fad25a448b0d75003ad6c41e68e33661304f27/nao-perca-seus-commits.md">Passo a passo para aproveitar os projetos da Trybe e nao perder os commits <a/> <br/> <br/>
+<a href="https://github.com/onyrius/repo-das-mina/blob/95fad25a448b0d75003ad6c41e68e33661304f27/nao-perca-seus-commits.md">Passo a passo para aproveitar os projetos da Trybe e nao perder os commits </a> <br/> <br/>
       
 #### :grin: Emojis e figuras em Markdown ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
       
-<a href="https://github.com/onyrius/repo-das-mina/blob/9a56c596b28926b16eb919ebdb7781bd6510a8f7/emojis.md"> Emojis em MarkDown  <a/>
+<a href="https://github.com/onyrius/repo-das-mina/blob/9a56c596b28926b16eb919ebdb7781bd6510a8f7/emojis.md"> Emojis em MarkDown  </a>
 
-<a href="https://github.com/onyrius/markdown-badges"> Marcas em MarkDown <a/> <br/> <br/>
+<a href="https://github.com/onyrius/markdown-badges"> Marcas em MarkDown </a> <br/> <br/>
       
 #### :scroll: Templates :scroll:
       
- <a href="https://github.com/onyrius/repo-das-mina/blob/9a56c596b28926b16eb919ebdb7781bd6510a8f7/template-readme.md"> Template READMe para projetos  <a/>
+ <a href="https://github.com/onyrius/repo-das-mina/blob/9a56c596b28926b16eb919ebdb7781bd6510a8f7/template-readme.md"> Template READMe para projetos  </a>
   
-<a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Gerador de Profile do GitHub <a/> 
+<a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Gerador de Profile do GitHub </a> 
       
-<a href="https://github.com/matiassingers/awesome-readme">Readme Bacanas!<a/>  
+<a href="https://github.com/matiassingers/awesome-readme">Readme Bacanas!</a>  
  
-<a href="https://github.com/kautukkundan/Awesome-Profile-README-templates">Readme Bacanas 2!<a/>
+<a href="https://github.com/kautukkundan/Awesome-Profile-README-templates">Readme Bacanas 2!</a>
  <br/>
 <br/>
       
  #### :wrench: Editores de imagem :wrench:
         
- <a href="https://pixlr.com/br/editor/">Precisa editar fotos? Click aqui<a/>  <br/>
+ <a href="https://pixlr.com/br/editor/">Precisa editar fotos? Click aqui</a>  <br/>
   
  <br/>
        
  ####  :performing_arts: Avatares  :performing_arts:
   
-  <a href="https://myoctocat.com/build-your-octocat/"> Crie sua octocat linda!  <a/> 
+  <a href="https://myoctocat.com/build-your-octocat/"> Crie sua octocat linda!  </a> 
        
- <a href="https://www.bitmoji.com/"> Crie um avatar!  <a/>
+ <a href="https://www.bitmoji.com/"> Crie um avatar!  </a>
        
  <br/>  
        
   ###  :bulb: Especiais :bulb:
        
-  <a href="https://dev.to/henriquelopes42/como-adicionar-o-snake-game-jogo-da-cobrinha-no-seu-perfil-do-github-40m2"> Colocar cobrinha no perfil<a/>
+  <a href="https://dev.to/henriquelopes42/como-adicionar-o-snake-game-jogo-da-cobrinha-no-seu-perfil-do-github-40m2"> Colocar cobrinha no perfil</a>
         
-   <a href="https://github.com/anuraghazra/github-readme-stats">Colocar as estatísticas no perfil - 1<a/>
+   <a href="https://github.com/anuraghazra/github-readme-stats">Colocar as estatísticas no perfil - 1</a>
          
-   <a href="http://github-readme-streak-stats.herokuapp.com/demo/">Colocar as estatísticas no perfil - 2<a/>
+   <a href="http://github-readme-streak-stats.herokuapp.com/demo/">Colocar as estatísticas no perfil - 2</a>
            
    <br/>
        
   #### :bust_in_silhouette: Portfólios :bust_in_silhouette:
      
- <a href="https://dev.to/gismo1337/interactive-portfolio-showcase-for-developers-4m97?signin=true#a"> Inspirações para portfólio <a/>
+ <a href="https://dev.to/gismo1337/interactive-portfolio-showcase-for-developers-4m97?signin=true#a"> Inspirações para portfólio </a>
   
  <br/><br/>
        
@@ -92,14 +92,26 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
      
 
  
-  <a href="https://github.com/onyrius/repo-das-mina/blob/5053e890eafe5307275150e861b84f68a705b039/desafio-Linkedin/dia-1.md"> :seedling: - Dia 1 <a/><br/>
+  <a href="https://github.com/onyrius/repo-das-mina/blob/5053e890eafe5307275150e861b84f68a705b039/desafio-Linkedin/dia-1.md"> :seedling: - Dia 1 </a><br/>
 
- <a href="https://github.com/onyrius/repo-das-mina/blob/173f66b0e48e381e5a2f5bc544a857072671540c/desafio-Linkedin/dia-2/dia-2.md"> :seedling: - Dia 2 <a/><br/>
+ <a href="https://github.com/onyrius/repo-das-mina/blob/173f66b0e48e381e5a2f5bc544a857072671540c/desafio-Linkedin/dia-2/dia-2.md"> :seedling: - Dia 2 </a><br/>
        
-  <a href="https://github.com/onyrius/repo-das-mina/blob/36245c93860a6d70a2fb39e8b25f276a8613b426/desafio-Linkedin/dia-3/dia-3.md"> :seedling: - Dia 3 <a/><br/>
+  <a href="https://github.com/onyrius/repo-das-mina/blob/36245c93860a6d70a2fb39e8b25f276a8613b426/desafio-Linkedin/dia-3/dia-3.md"> :seedling: - Dia 3 </a><br/>
        
 ---
-        
+<details>
+
+  <summary><strong>:seedling:  - Dia 4</strong></summary><br />
+
+- :seedling: Como personalizar o README do perfil do Github :octocat: :seedling:
+
+<a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Clique aqui </a>  e veja esse vídeo de 20 minutinhos rapidinho e você vai entender melhor como funciona o README do perfil e como personalizá-lo. Só vem!
+PS: Fique tranquila, hoje o desafio é apenas para entender como funciona, em outro desafio vamos poder praticar com mais confiança 
+
+</details>
+
+<br/>
+
 ---
         
   #### :sos: <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" />  Precisa de ajuda? Procure-nos <img src="https://www.imagensanimadas.com/data/media/930/sirene-de-policia-imagem-animada-0004.gif" width="24" height="24" alt="sirene de policia" />  :sos:
