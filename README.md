@@ -83,7 +83,7 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
        
        
         
-   # :sunflower:  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  Desafios  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) :sunflower:        
+   # :sunflower:  Desafios   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) :sunflower:        
              
    <a href="https://github.com/onyrius/repo-das-mina/blob/5053e890eafe5307275150e861b84f68a705b039/desafio-Linkedin/dia-1.md"> :seedling: - Dia 1 </a><br/>
 
@@ -102,6 +102,7 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
 PS: Fique tranquila, hoje o desafio é apenas para entender como funciona, em outro desafio vamos poder praticar com mais confiança 
 
 </details>
+
 
 <br/>
 
