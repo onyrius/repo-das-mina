@@ -72,7 +72,9 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
    <a href="https://github.com/anuraghazra/github-readme-stats">Colocar as estatísticas no perfil - 1</a>
          
    <a href="http://github-readme-streak-stats.herokuapp.com/demo/">Colocar as estatísticas no perfil - 2</a>
-           
+   
+   <a href="https://www.snappr.com/photo-analyzer/ ">Analise sua foto de perfil do Linkedin</a>
+          
    <br/>
        
   #### :bust_in_silhouette: Portfólios :bust_in_silhouette:
