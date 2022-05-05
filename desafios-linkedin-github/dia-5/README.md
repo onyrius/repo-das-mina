@@ -1,28 +1,25 @@
-# Desafio diário | Dia 5 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
- ### Escrever o _Sobre_ do LinkedIn, seu texto de apresentação!
+# Desafio diário | Escrever o _Sobre_ do LinkedIn, seu texto de apresentação! ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
  ## :seedling: Faça login, acesse o seu perfil.
      
-<img src="./imagens/imagem-1.png" /><br/><br/>
+<img src="./desafios-linkedin-github/dia-5/imagens/01.png" /><br/><br/>
 
 ## :seedling: Se não houver nenhum texto no sobre no seu LinkedIn, faça os passos seguintes:
  - Vá até a opção _Adicionar seção do perfil_;
  - Abrirá uma caixinha, você deve selecionar a opção _Adicionar sobre_;
  - Escreva seu texto na área mostrada na terceira imagem e salve.
 
-<img src="./imagens/imagem-2.png" /><br/>
-<img src="./imagens/imagem-3.png" /><br/>
-<img src="./imagens/imagem-4.png" /><br/><br/>
+<img src="./desafios-linkedin-github/dia-5/imagens/02.png" /><br/>
+<img src="./desafios-linkedin-github/dia-5/imagens/03.png" /><br/>
+<img src="./desafios-linkedin-github/dia-5/imagens/04.png" /><br/><br/>
 
 
 ## :seedling:  Se você  já tem um texto Sobre e quer editar, faça os passos seguintes:
  - Vá até a seção _Sobre_ do seu perfil e clique no lápis para editar;
  - Abrirá uma caixa de texto, é só escrever o seu _Sobre_ e salvar.
 
-<img src="./imagens/imagem-5.png" /><br/>
-<img src="./imagens/imagem-6.png" /><br/><br/>
+<img src="./desafios-linkedin-github/dia-5/imagens/05.png" /><br/>
+<img src="./desafios-linkedin-github/dia-5/imagens/06.png" /><br/><br/>
 
 
 ## :seedling: E agora? O que escrever? Aqui vão algumas dicas:
@@ -39,6 +36,4 @@
 
 <br/>
 
-## :seedling: Colaboradora
-
-[Ligia Arcanjo Gonçalves](https://www.linkedin.com/in/ligiaarcanjo/) :green_heart:
+## :seedling: Colaboradora: [Ligia Arcanjo Gonçalves](https://www.linkedin.com/in/ligiaarcanjo/) :green_heart:
