@@ -20,7 +20,7 @@ _Clique em editar para editar alguma experiência profissional já inserida ou c
 <img src="./desafios-linkedin-github/dia-8/imagens/05.png"/><br/><br/>
 <img src="./desafios-linkedin-github/dia-8/imagens/06.png"/><br/><br/>
 
-#### :seedling: Quer adicionar uma nota ou excluir a Formação acadêmica? Só clicar no botão de editar (mensagem acima) que irá habilitar para você.
+#### :seedling: Quer adicionar uma nota ou excluir a Formação acadêmica? Só clicar no botão de editar (passo acima) que irá habilitar para você.
 
 <img src="./desafios-linkedin-github/dia-8/imagens/07.png"/><br/><br/>
 

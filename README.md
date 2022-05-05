@@ -90,6 +90,8 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
    
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
    
+  ### _Que tal um LinkedIn campeão e um Github de sucesso? Faça os desafios diários e você vai alavancar sua presença nesses plataformas! :rocket:
+
 <details>
       
 <summary><strong>Dia 1 :seedling:</strong></summary><br />
@@ -193,7 +195,7 @@ _Há templates disponíveis no slack da Trybe que podemos usar e há também tem
      
 <img src="./desafios-linkedin-github/dia-5/imagens/01.png" /><br/><br/>
 
-## :seedling: Se não houver nenhum texto no sobre no seu LinkedIn, faça os passos seguintes:
+## :seedling: Se não houver nenhum _Sobre_ no seu LinkedIn, faça os passos seguintes:
  - Vá até a opção _Adicionar seção do perfil_;
  - Abrirá uma caixinha, você deve selecionar a opção _Adicionar sobre_;
  - Escreva seu texto na área mostrada na terceira imagem e salve.
@@ -203,7 +205,7 @@ _Há templates disponíveis no slack da Trybe que podemos usar e há também tem
 <img src="./desafios-linkedin-github/dia-5/imagens/04.png" /><br/><br/>
 
 
-## :seedling:  Se você  já tem um texto Sobre e quer editar, faça os passos seguintes:
+## :seedling:  Se você  já tem um _Sobre_ e quer editar, faça os passos seguintes:
  - Vá até a seção _Sobre_ do seu perfil e clique no lápis para editar;
  - Abrirá uma caixa de texto, é só escrever o seu _Sobre_ e salvar.
 
@@ -304,7 +306,7 @@ _Clique em editar para editar alguma experiência profissional já inserida ou c
 <img src="./desafios-linkedin-github/dia-8/imagens/05.png"/><br/><br/>
 <img src="./desafios-linkedin-github/dia-8/imagens/06.png"/><br/><br/>
 
-#### :seedling: Quer adicionar uma nota ou excluir a Formação acadêmica? Só clicar no botão de editar (mensagem acima) que irá habilitar para você.
+#### :seedling: Quer adicionar uma nota ou excluir a Formação acadêmica? Só clicar no botão de editar (passo acima) que irá habilitar para você.
 
 <img src="./desafios-linkedin-github/dia-8/imagens/07.png"/><br/><br/>
 
