@@ -6,11 +6,11 @@ Além disso, adicionar mídias, deixam o seu perfil mais interessante.
 Hackathons e projetos que você participou, também podem ser incluídos como experiências profissionais!
 <br/><br/>
 
-<img src="./desafios-linkedin-github/dia-7/imagens/01.png" /><br/><br/>
-<img src="./desafios-linkedin-github/dia-7/imagens/02.png" /><br/><br/>
-<img src="./desafios-linkedin-github/dia-7/imagens/03.png" /><br/><br/>
-<img src="./desafios-linkedin-github/dia-7/imagens/04.png" /><br/><br/>
-<img src="./desafios-linkedin-github/dia-7/imagens/05.png" /><br/><br/>
+<img src="./imagens/01.png" /><br/><br/>
+<img src="./imagens/02.png" /><br/><br/>
+<img src="./imagens/03.png" /><br/><br/>
+<img src="./imagens/04.png" /><br/><br/>
+<img src="./imagens/05.png" /><br/><br/>
 
  - Para cada experiência listada utilizar até 3-4 bullet points para listar habilidades e/ou responsabilidades;
  - Em cada experiência profissional listar, pelo menos, um bullet point demonstrando como contribuiu para a empresa ou uma causa;
