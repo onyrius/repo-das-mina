@@ -159,9 +159,9 @@ _Há templates disponíveis no slack da Trybe que podemos usar e há também tem
 <img src="./desafios-linkedin-github/dia-3/imagens/06.png" /><br/><br/>
 
 ## :seedling:  Por fim, abrirá uma aba para inserir todas as informações pertinentes. Note que é onde pode fazer a personalização da URL, mas isso ficará para outro desafio.
-## :seedling:  Após preencher todas as opções e escolher a forma de visualização para sua rede de contatos, é só clicar em salvar, após salvar, você será redirecionada para a sessão anterior e também precisará clicar em salvar. Após isso, mais um passo já foi finalizado no seu perfil.
 
 <img src="./desafios-linkedin-github/dia-3/imagens/07.png" /><br/>
+## :seedling:  Após preencher todas as opções e escolher a forma de visualização para sua rede de contatos, é só clicar em salvar, após salvar, você será redirecionada para a sessão anterior e também precisará clicar em salvar. Após isso, mais um passo já foi finalizado no seu perfil.
 
 <img src="./desafios-linkedin-github/dia-3/imagens/08.png" /><br/><br/>
 
