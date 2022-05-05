@@ -91,24 +91,14 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
    
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
     
-   <a href="https://github.com/onyrius/repo-das-mina/blob/5053e890eafe5307275150e861b84f68a705b039/desafio-Linkedin/dia-1.md"> :seedling: - Dia 1 </a><br/>
+  <a href="https://github.com/onyrius/repo-das-mina/blob/main/desafio-linkedin-github/dia-1/dia-1.md"> :seedling: - Dia 1 </a><br/>
 
- <a href="https://github.com/onyrius/repo-das-mina/blob/173f66b0e48e381e5a2f5bc544a857072671540c/desafio-Linkedin/dia-2/dia-2.md"> :seedling: - Dia 2 </a><br/>
+  <a href="https://github.com/onyrius/repo-das-mina/blob/main/desafio-linkedin-github/dia-2/dia-2.md"> :seedling: - Dia 2 </a><br/>
        
-  <a href="https://github.com/onyrius/repo-das-mina/blob/36245c93860a6d70a2fb39e8b25f276a8613b426/desafio-Linkedin/dia-3/dia-3.md"> :seedling: - Dia 3 </a><br/>
+  <a href="https://github.com/onyrius/repo-das-mina/blob/main/desafio-linkedin-github/dia-3/dia-3.md"> :seedling: - Dia 3 </a><br/>
+
+  <a href="https://github.com/onyrius/repo-das-mina/blob/main/desafio-linkedin-github/dia-4/dia-4.md"> :seedling: - Dia 4 </a><br/>
        
----
-<details>
-
-  <summary><strong>:seedling:  - Dia 4</strong></summary><br />
-
-- :seedling: Como personalizar o README do perfil do Github :octocat: :seedling:
-
-<a href="https://www.youtube.com/watch?v=TsaLQAetPLU&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&index=4&ab_channel=RafaellaBallerini">Clique aqui </a>  e veja esse vídeo de 20 minutinhos rapidinho e você vai entender melhor como funciona o README do perfil e como personalizá-lo. Só vem!
-PS: Fique tranquila, hoje o desafio é apenas para entender como funciona, em outro desafio vamos poder praticar com mais confiança 
-
-</details>
-
 
 <br/>
 
