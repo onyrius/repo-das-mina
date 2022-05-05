@@ -89,7 +89,7 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
    # 🔥 Desafios 🔥      
    
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  <h1 align="center"> Que tal um LinkedIn campeão e um Github de sucesso? Faça os desafios diários e você vai alavancar sua presença nessas plataformas! :rocket: :rocket: :rocket:<h1/>
+  <h2 align="center"> Que tal um LinkedIn campeão e um Github de sucesso? Faça os desafios diários e você vai alavancar sua presença nessas plataformas! :rocket: :rocket: :rocket:</h2>
 <br/>
 
 <details>
