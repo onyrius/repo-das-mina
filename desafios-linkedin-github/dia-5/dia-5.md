@@ -1,7 +1,7 @@
 # Desafio diário | Dia 5 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
- ### Escrever o Sobre do LinkedIn, seu texto de apresentação
+ ### Escrever o _Sobre_ do LinkedIn, seu texto de apresentação!
 
  ## :seedling: Faça login, acesse o seu perfil.
      
@@ -37,7 +37,8 @@
 
 :warning: **Importante:** É um texto sobre você! A ideia aqui não é ter uma receita de bolo para seguir a risca. Deve ser um texto autêntico, que faça sentido para você. E lembre-se: geralmente o _Sobre_ é a primeira coisa que o recrutador vai olhar no seu perfil.
 
+<br/>
 
 ## :seedling: Colaboradora
 
-![Ligia Arcanjo Gonçalves](https://www.linkedin.com/in/ligiaarcanjo/) :green_heart:
+[Ligia Arcanjo Gonçalves](https://www.linkedin.com/in/ligiaarcanjo/) :green_heart:
