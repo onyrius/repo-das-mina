@@ -111,7 +111,7 @@ _Há templates disponíveis no slack da Trybe que podemos usar e há também tem
 #### :seedling: Uma ideia para o título é usar Estudante de Desenvolvimento Web Full Stack | Trybe - Turma XP. Basta digitar na área em vermelho e depois clicar em salvar.
 <img src="./desafios-linkedin-github/dia-1/imagens/04.png"/><br/><br/>
 
-### :seedling: Colaboradora: [Letícia Mayr](https://www.linkedin.com/in/leticia-mayr/) :green_heart:
+## :seedling: Colaboradora: [Letícia Mayr](https://www.linkedin.com/in/leticia-mayr/) :green_heart:
 
 </details>
 
@@ -127,7 +127,7 @@ _Há templates disponíveis no slack da Trybe que podemos usar e há também tem
 <img src="./desafios-linkedin-github/dia-2/imagens/04.png" /><br/><br/>
 <img src="./desafios-linkedin-github/dia-2/imagens/05.png" /><br/><br/>
 
-### :seedling: Colaboradora: [Joice Aguiar](https://www.linkedin.com/in/joicemaguiar/) :green_heart:
+## :seedling: Colaboradora: [Joice Aguiar](https://www.linkedin.com/in/joicemaguiar/) :green_heart:
 
 </details>
 
@@ -141,11 +141,11 @@ _Há templates disponíveis no slack da Trybe que podemos usar e há também tem
      
 <img src="./desafios-linkedin-github/dia-3/imagens/01.png" /><br/><br/>
 
-## :seedling:  Neste janela, você pode editar muitas coisas, inclusive gravar a pronúncia do seu nome (apenas pelo app) e também adicionar os pronomes aos quais usa (e abaixo você configura quem pode ver isso, recomendo deixar Todos 
+## :seedling:  Neste janela, você pode editar muitas coisas, inclusive gravar a pronúncia do seu nome (apenas pelo app) e também adicionar os pronomes aos quais usa (e abaixo você configura quem pode ver isso, recomendo deixar _Todos_ 
 
 <img src="./desafios-linkedin-github/dia-3/imagens/02.png" /><br/><br/>
 
-## :seedling:  Logo abaixo terá a opção de colocar onde você trabalha atualmente (caso esteja trabalhando) e também onde estuda (é importante ticar a opção Exibir minha formação na introdução para que fique aparecendo logo no início do perfil.
+## :seedling:  Logo abaixo terá a opção de colocar onde você trabalha atualmente (caso esteja trabalhando) e também onde estuda (é importante ticar a opção Exibir minha formação na introdução para que fique aparecendo logo no início do perfil).
 
 <img src="./desafios-linkedin-github/dia-3/imagens/03.png" /><br/>
 <img src="./desafios-linkedin-github/dia-3/imagens/04.png" /><br/><br/>
@@ -159,13 +159,13 @@ _Há templates disponíveis no slack da Trybe que podemos usar e há também tem
 <img src="./desafios-linkedin-github/dia-3/imagens/06.png" /><br/><br/>
 
 ## :seedling:  Por fim, abrirá uma aba para inserir todas as informações pertinentes. Note que é onde pode fazer a personalização da URL, mas isso ficará para outro desafio.
-## :seedling:  Após preencher todas as opções e escolher a forma de visualização para sua rede de contatos, é só clicar em salvar, após salvar, você será redirecionada para a sessão anterior e também precisará clicar em salvar. Após isso, mais um passo já foi finalizado no seu perfil :mario:
+## :seedling:  Após preencher todas as opções e escolher a forma de visualização para sua rede de contatos, é só clicar em salvar, após salvar, você será redirecionada para a sessão anterior e também precisará clicar em salvar. Após isso, mais um passo já foi finalizado no seu perfil.
 
 <img src="./desafios-linkedin-github/dia-3/imagens/07.png" /><br/>
 
 <img src="./desafios-linkedin-github/dia-3/imagens/08.png" /><br/><br/>
 
-### :seedling: Colaboradora: [Brenndha Cabral](https://www.linkedin.com/in/brenndhacabral/) :green_heart:
+## :seedling: Colaboradora: [Brenndha Cabral](https://www.linkedin.com/in/brenndhacabral/) :green_heart:
 
 </details>
 
@@ -179,7 +179,7 @@ _Há templates disponíveis no slack da Trybe que podemos usar e há também tem
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TsaLQAetPLU/0.jpg)](https://www.youtube.com/watch?v=TsaLQAetPLU)
 
-### :seedling: Colaboradora: [Brenndha Cabral](https://www.linkedin.com/in/brenndhacabral/) :green_heart:
+## :seedling: Colaboradora: [Brenndha Cabral](https://www.linkedin.com/in/brenndhacabral/) :green_heart:
 
 </details>
 
@@ -225,7 +225,7 @@ _Há templates disponíveis no slack da Trybe que podemos usar e há também tem
 
 <br/>
 
-### :seedling: Colaboradora: [Ligia Arcanjo Gonçalves](https://www.linkedin.com/in/ligiaarcanjo/) :green_heart:
+## :seedling: Colaboradora: [Ligia Arcanjo Gonçalves](https://www.linkedin.com/in/ligiaarcanjo/) :green_heart:
 
 </details>
 
@@ -244,7 +244,8 @@ _Há templates disponíveis no slack da Trybe que podemos usar e há também tem
 <img src="./desafios-linkedin-github/dia-6/imagens/07.gif" /><br/><br/>
 <img src="./desafios-linkedin-github/dia-6/imagens/08.gif" /><br/><br/>
 <img src="./desafios-linkedin-github/dia-6/imagens/09.gif" /><br/><br/>
-### :seedling: Colaboradora: [Suelen Arruda](https://www.linkedin.com/in/suelen-arruda/) :green_heart:
+
+## :seedling: Colaboradora: [Suelen Arruda](https://www.linkedin.com/in/suelen-arruda/) :green_heart:
 
 </details>
 
@@ -272,7 +273,7 @@ Hackathons e projetos que você participou, também podem ser incluídos como ex
 
  <br/>
 
-### :seedling: Colaboradora: [Joice Aguiar](https://www.linkedin.com/in/joicemaguiar/) :green_heart:
+## :seedling: Colaboradora: [Joice Aguiar](https://www.linkedin.com/in/joicemaguiar/) :green_heart:
 
 
 </details>
