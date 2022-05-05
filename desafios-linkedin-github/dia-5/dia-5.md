@@ -1,0 +1,43 @@
+# Desafio diário | Dia 5 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+ ### Escrever o Sobre do LinkedIn, seu texto de apresentação
+
+ ## :seedling: Faça login, acesse o seu perfil.
+     
+<img src="./imagens/imagem-1.png" /><br/><br/>
+
+## :seedling: Se não houver nenhum texto no sobre no seu LinkedIn, faça os passos seguintes:
+ - Vá até a opção _Adicionar seção do perfil_;
+ - Abrirá uma caixinha, você deve selecionar a opção _Adicionar sobre_;
+ - Escreva seu texto na área mostrada na terceira imagem e salve.
+
+<img src="./imagens/imagem-2.png" /><br/>
+<img src="./imagens/imagem-3.png" /><br/>
+<img src="./imagens/imagem-4.png" /><br/><br/>
+
+
+## :seedling:  Se você  já tem um texto Sobre e quer editar, faça os passos seguintes:
+ - Vá até a seção _Sobre_ do seu perfil e clique no lápis para editar;
+ - Abrirá uma caixa de texto, é só escrever o seu _Sobre_ e salvar.
+
+<img src="./imagens/imagem-5.png" /><br/>
+<img src="./imagens/imagem-6.png" /><br/><br/>
+
+
+## :seedling: E agora? O que escrever? Aqui vão algumas dicas:
+ - Escreva uma breve apresentação sobre você;
+ - Deve ser um texto pequeno e fluido;
+ - Escreva em primeira pessoa;
+ - Importante pensar em como você quer ser vista pelas pessoas;
+ - Ideias para começar: Quais são suas paixões? Comunicar seus interesses; Linguagens de programação que domina; Qual é seu propósito?
+ - Se estiver em transição de carreira, é legal falar qual foi sua motivação para fazer a transição.
+
+<br/>
+
+:warning: **Importante:** É um texto sobre você! A ideia aqui não é ter uma receita de bolo para seguir a risca. Deve ser um texto autêntico, que faça sentido para você. E lembre-se: geralmente o _Sobre_ é a primeira coisa que o recrutador vai olhar no seu perfil.
+
+
+## :seedling: Colaboradora
+
+![Ligia Arcanjo Gonçalves](https://www.linkedin.com/in/ligiaarcanjo/) :green_heart:
