@@ -87,20 +87,221 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
        
        
         
-   # :sunflower:  Desafios  :sunflower:        
+   # 🔥 Desafios 🔥      
    
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-    
-  <a href="https://github.com/onyrius/repo-das-mina/blob/main/desafios-linkedin-github/dia-1/dia-1.md"> :seedling: - Dia 1 </a><br/>
+   
+<details>
+      
+<summary><strong>Dia 1 :seedling:</strong></summary><br />
 
-  <a href="https://github.com/onyrius/repo-das-mina/blob/main/desafios-linkedin-github/dia-2/dia-2.md"> :seedling: - Dia 2 </a><br/>
-       
-  <a href="https://github.com/onyrius/repo-das-mina/blob/main/desafios-linkedin-github/dia-3/dia-3.md"> :seedling: - Dia 3 </a><br/>
+# Desafio diário | Dia 1 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-  <a href="https://github.com/onyrius/repo-das-mina/blob/main/desafios-linkedin-github/dia-4/dia-4.md"> :seedling: - Dia 4 </a><br/>
+#### :seedling: Faça login e acesse o seu perfil clicando na sua foto e depois em visualizar perfil. <br/><br/>
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-1.png"/><br/><br/>
 
-  <a href="https://github.com/onyrius/repo-das-mina/blob/main/desafios-linkedin-github/dia-4/dia-4.md"> :seedling: - Dia 5 </a><br/>
-       
+#### :seedling: No seu perfil, clique no espaço para a foto e depois em adicionar foto. Existem as opções de fazer upload de uma foto ou tirar uma diretamente da sua webcam.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-2.png"/><br/><br/>
+
+
+#### :seedling: Agora para a capa basta clicar no lápis circulado em laranja e escolher uma imagem. E no título no lápis circulado em azul.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-3.png" align="center"/><br/><br/>
+_Há templates disponíveis no slack da Trybe que podemos usar e há também templates para linkedin no <a href="http://canva.com/">Canvas</a> (exemplo foto abaixo)_ <br/> 
+<img src="./desafios-linkedin-github/dia-1/imagens/banner-linkedin-canvas.png"/><br/><br/>
+
+#### :seedling: Uma ideia para o título é usar Estudante de Desenvolvimento Web Full Stack | Trybe - Turma XP. Basta digitar na área em vermelho e depois clicar em salvar.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-4.png"/><br/><br/>
+
+## :seedling: Colaboradora: [Letícia Mayr](https://www.linkedin.com/in/leticia-mayr/) :green_heart:
+
+</details>
+
+<details>
+
+<summary><strong>Dia 2 :seedling:</strong></summary><br />
+
+# Desafio diário | Dia 2 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## :seedling: Adicionar sua foto, nome, bio e localização no seu perfil do GitHub.
+
+<img src="./desafios-linkedin-github/dia-2/imagens/01.png" /><br/><br/>
+<img src="./desafios-linkedin-github/dia-2/imagens/02.png" /><br/><br/>
+<img src="./desafios-linkedin-github/dia-2/imagens/03.png" /><br/><br/>
+<img src="./desafios-linkedin-github/dia-2/imagens/04.png" /><br/><br/>
+<img src="./desafios-linkedin-github/dia-2/imagens/05.png" /><br/><br/>
+
+## :seedling: Colaboradora: [Joice Aguiar](https://www.linkedin.com/in/joicemaguiar/) :green_heart:
+
+</details>
+
+<details>
+
+<summary><strong>Dia 3 :seedling:</strong></summary><br />
+
+# Desafio diário | Dia 3 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+### Mudar o setor, formação acadêmica (introdução), localidade e contato 
+
+## :seedling: Faça login, acesse o seu perfil e depois clique nesse lápis para editar sua introdução.
+     
+<img src="./desafios-linkedin-github/dia-3/imagens/image (2).png" /><br/><br/>
+
+## :seedling:  Neste janela, você pode editar muitas coisas, inclusive gravar a pronúncia do seu nome (apenas pelo app) e também adicionar os pronomes aos quais usa (e abaixo você configura quem pode ver isso, recomendo deixar Todos 
+
+<img src="./desafios-linkedin-github/dia-3/imagens/image (3).png" /><br/><br/>
+
+## :seedling:  Logo abaixo terá a opção de colocar onde você trabalha atualmente (caso esteja trabalhando) e também onde estuda (é importante ticar a opção Exibir minha formação na introdução para que fique aparecendo logo no início do perfil.
+
+<img src="./desafios-linkedin-github/dia-3/imagens/image (4).png" /><br/>
+<img src="./desafios-linkedin-github/dia-3/imagens/image (5).png" /><br/><br/>
+
+## :seedling:  Em seguida terá a opção de alterar sua localização.
+
+<img src="./desafios-linkedin-github/dia-3/imagens/image (6).png" /><br/><br/>
+
+## :seedling:  Quase finalizando, você pode atualizar o seu contato.
+
+<img src="./desafios-linkedin-github/dia-3/imagens/image (7).png" /><br/><br/>
+
+## :seedling:  Por fim, abrirá uma aba para inserir todas as informações pertinentes. Note que é onde pode fazer a personalização da URL, mas isso ficará para outro desafio :bongocat:.
+## :seedling:  Após preencher todas as opções e escolher a forma de visualização para sua rede de contatos, é só clicar em salvar, após salvar, você será redirecionada para a sessão anterior e também precisará clicar em salvar. Após isso, mais um passo já foi finalizado no seu perfil :mario:
+
+<img src="./desafios-linkedin-github/dia-3/imagens/image (8).png" /><br/>
+
+<img src="./desafios-linkedin-github/dia-3/imagens/image (9).png" /><br/><br/>
+
+## :seedling: Colaboradora: [Brenndha Cabral](https://www.linkedin.com/in/brenndhacabral/) :green_heart:
+
+</details>
+
+<details>
+
+<summary><strong>Dia 4 :seedling:</strong></summary><br />
+
+# Desafio diário | Dia 4 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+ ### Como personalizar o README do perfil do Github :octocat:
+
+ ## :seedling: Clique [aqui](https://www.youtube.com/watch?v=TsaLQAetPLU) e veja esse vídeo de 20 minutinhos (rapidinho :fire:) e você vai entender melhor como funciona o README do perfil e como personalizá-lo.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TsaLQAetPLU/0.jpg)](https://www.youtube.com/watch?v=TsaLQAetPLU)
+
+## :seedling: Colaboradora: [Brenndha Cabral](https://www.linkedin.com/in/brenndhacabral/) :green_heart:
+
+</details>
+
+<details>
+
+<summary><strong>Dia 5 :seedling:</strong></summary><br />
+
+# Desafio diário | Dia 1 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+#### :seedling: Faça login e acesse o seu perfil clicando na sua foto e depois em visualizar perfil. <br/><br/>
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-1.png"/><br/><br/>
+
+#### :seedling: No seu perfil, clique no espaço para a foto e depois em adicionar foto. Existem as opções de fazer upload de uma foto ou tirar uma diretamente da sua webcam.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-2.png"/><br/><br/>
+
+
+#### :seedling: Agora para a capa basta clicar no lápis circulado em laranja e escolher uma imagem. E no título no lápis circulado em azul.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-3.png" align="center"/><br/><br/>
+_Há templates disponíveis no slack da Trybe que podemos usar e há também templates para linkedin no <a href="http://canva.com/">Canvas</a> (exemplo foto abaixo)_ <br/> 
+<img src="./desafios-linkedin-github/dia-1/imagens/banner-linkedin-canvas.png"/><br/><br/>
+
+#### :seedling: Uma ideia para o título é usar Estudante de Desenvolvimento Web Full Stack | Trybe - Turma XP. Basta digitar na área em vermelho e depois clicar em salvar.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-4.png"/><br/><br/>
+
+## :seedling: Colaboradora
+
+[Letícia Mayr](https://www.linkedin.com/in/leticia-mayr/) :green_heart:
+
+
+</details>
+
+<details>
+
+  <summary><strong>Dia 6 :seedling:</strong></summary><br />
+
+# Desafio diário | Dia 1 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+#### :seedling: Faça login e acesse o seu perfil clicando na sua foto e depois em visualizar perfil. <br/><br/>
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-1.png"/><br/><br/>
+
+#### :seedling: No seu perfil, clique no espaço para a foto e depois em adicionar foto. Existem as opções de fazer upload de uma foto ou tirar uma diretamente da sua webcam.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-2.png"/><br/><br/>
+
+
+#### :seedling: Agora para a capa basta clicar no lápis circulado em laranja e escolher uma imagem. E no título no lápis circulado em azul.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-3.png" align="center"/><br/><br/>
+_Há templates disponíveis no slack da Trybe que podemos usar e há também templates para linkedin no <a href="http://canva.com/">Canvas</a> (exemplo foto abaixo)_ <br/> 
+<img src="./desafios-linkedin-github/dia-1/imagens/banner-linkedin-canvas.png"/><br/><br/>
+
+#### :seedling: Uma ideia para o título é usar Estudante de Desenvolvimento Web Full Stack | Trybe - Turma XP. Basta digitar na área em vermelho e depois clicar em salvar.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-4.png"/><br/><br/>
+
+## :seedling: Colaboradora
+
+[Letícia Mayr](https://www.linkedin.com/in/leticia-mayr/) :green_heart:
+
+
+</details>
+
+<details>
+
+  <summary><strong>Dia 7 :seedling:</strong></summary><br />
+
+# Desafio diário | Dia 1 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+#### :seedling: Faça login e acesse o seu perfil clicando na sua foto e depois em visualizar perfil. <br/><br/>
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-1.png"/><br/><br/>
+
+#### :seedling: No seu perfil, clique no espaço para a foto e depois em adicionar foto. Existem as opções de fazer upload de uma foto ou tirar uma diretamente da sua webcam.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-2.png"/><br/><br/>
+
+
+#### :seedling: Agora para a capa basta clicar no lápis circulado em laranja e escolher uma imagem. E no título no lápis circulado em azul.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-3.png" align="center"/><br/><br/>
+_Há templates disponíveis no slack da Trybe que podemos usar e há também templates para linkedin no <a href="http://canva.com/">Canvas</a> (exemplo foto abaixo)_ <br/> 
+<img src="./desafios-linkedin-github/dia-1/imagens/banner-linkedin-canvas.png"/><br/><br/>
+
+#### :seedling: Uma ideia para o título é usar Estudante de Desenvolvimento Web Full Stack | Trybe - Turma XP. Basta digitar na área em vermelho e depois clicar em salvar.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-4.png"/><br/><br/>
+
+## :seedling: Colaboradora
+
+[Letícia Mayr](https://www.linkedin.com/in/leticia-mayr/) :green_heart:
+
+
+</details>
+
+<details>
+
+  <summary><strong>Dia 8 :seedling:</strong></summary><br />
+
+# Desafio diário | Dia 1 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+#### :seedling: Faça login e acesse o seu perfil clicando na sua foto e depois em visualizar perfil. <br/><br/>
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-1.png"/><br/><br/>
+
+#### :seedling: No seu perfil, clique no espaço para a foto e depois em adicionar foto. Existem as opções de fazer upload de uma foto ou tirar uma diretamente da sua webcam.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-2.png"/><br/><br/>
+
+
+#### :seedling: Agora para a capa basta clicar no lápis circulado em laranja e escolher uma imagem. E no título no lápis circulado em azul.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-3.png" align="center"/><br/><br/>
+_Há templates disponíveis no slack da Trybe que podemos usar e há também templates para linkedin no <a href="http://canva.com/">Canvas</a> (exemplo foto abaixo)_ <br/> 
+<img src="./desafios-linkedin-github/dia-1/imagens/banner-linkedin-canvas.png"/><br/><br/>
+
+#### :seedling: Uma ideia para o título é usar Estudante de Desenvolvimento Web Full Stack | Trybe - Turma XP. Basta digitar na área em vermelho e depois clicar em salvar.
+<img src="./desafios-linkedin-github/dia-1/imagens/desafio-dia1-4.png"/><br/><br/>
+
+## :seedling: Colaboradora
+
+[Letícia Mayr](https://www.linkedin.com/in/leticia-mayr/) :green_heart:
+
+
+</details>
 
 <br/>
 
