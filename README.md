@@ -36,7 +36,13 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
       
 <a href="https://github.com/onyrius/repo-das-mina/blob/9a56c596b28926b16eb919ebdb7781bd6510a8f7/emojis.md"> Emojis em MarkDown  </a>
 
-<a href="https://github.com/onyrius/markdown-badges"> Marcas em MarkDown </a> <br/> <br/>
+<a href="https://github.com/onyrius/markdown-badges"> Marcas em MarkDown </a> 
+
+<a href="https://emojipedia.org/"> Emojipedia </a>
+
+<br/> <br/>
+
+
       
 #### :scroll: Templates :scroll:
       
