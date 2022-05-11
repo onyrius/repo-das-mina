@@ -72,6 +72,9 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
          
    <a href="http://github-readme-streak-stats.herokuapp.com/demo/">Colocar as estatísticas no perfil - 2</a>
    
+    <a href="https://www.stefanjudis.com/notes/how-to-define-dark-light-mode-images-in-github-markdown/"> Profile Github - mudar as imagens de acordo com o tema do usuário </a>
+   
+   
    <a href="https://www.snappr.com/photo-analyzer/">Analise sua foto de perfil do Linkedin</a>
  
    <a href="http://linkedin.com/sales/ssi">Analise a força do seu perfil no Linkedin</a>
