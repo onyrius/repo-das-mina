@@ -72,18 +72,24 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
        
   ###  :bulb: Especiais :bulb:
   
-  
-  <a href="https://github.com/tandpfun/skill-icons#readme">Lista de Stacks para colocar no perfil </a>
-       
-  <a href="https://dev.to/henriquelopes42/como-adicionar-o-snake-game-jogo-da-cobrinha-no-seu-perfil-do-github-40m2"> Colocar cobrinha no perfil</a>
-    
-  <a href="https://github.com/anuraghazra/github-readme-stats">Colocar as estatísticas no perfil - 1</a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">Colocar as estatísticas no perfil - 1</a>
   
   <a href="http://github-readme-streak-stats.herokuapp.com/demo/">Colocar as estatísticas no perfil - 2</a>
   
-  <a href="https://www.stefanjudis.com/notes/how-to-define-dark-light-mode-images-in-github-markdown/"> Profile Github - renderizar as imagens de acordo com o tema do usuário </a>
+  <a href="https://dev.to/henriquelopes42/como-adicionar-o-snake-game-jogo-da-cobrinha-no-seu-perfil-do-github-40m2"> Colocar cobrinha no perfil</a>
+  
+  <a href="https://gitconnected.com/"> Fazer um currículo bacana linkado ao Github </a>
    
-   <a href="https://gitconnected.com/"> Fazer um currículo bacana linkado ao Github </a>
+  <a href="https://github.com/tandpfun/skill-icons#readme">Lista de Stacks para colocar no perfil </a>
+        
+   <a href="https://www.stefanjudis.com/notes/how-to-define-dark-light-mode-images-in-github-markdown/"> Profile Github - renderizar as imagens de acordo com o tema do usuário </a>
+    <br/>
+    <br/>
+
+  
+ ### ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) Métricas do Linkedin 
+   
+ 
    
    <a href="https://www.snappr.com/photo-analyzer/">Analise sua foto de perfil do Linkedin</a>
  
