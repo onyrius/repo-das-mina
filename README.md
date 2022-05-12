@@ -87,7 +87,7 @@ Auxiliar as mulheres a montarem um Github campeão disponibilizando templates de
     <br/>
 
   
- ### ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) Métricas do Linkedin 
+ ### :chart_with_upwards_trend:  Métricas do Linkedin  :chart_with_upwards_trend:
    
  
    
