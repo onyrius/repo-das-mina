@@ -355,3 +355,5 @@ _Clique em editar para editar alguma experiência profissional já inserida ou c
  <a href="https://github.com/TabataSouto">Tabata</a> 
        
 <a href="https://github.com/onyrius/">Suelen</a>
+
+<a href="https://github.com/Kamila-hydalgo">Kamila</a>
